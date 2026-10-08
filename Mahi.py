@@ -1,0 +1,2 @@
+c="maja"
+print(c)
